@@ -1,10 +1,10 @@
 # Lending Club Case Study
 
-### Project Information
+## Project Information
 
 > The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
 
-### Project Background
+## Project Background
 
 ```
 The company, specializing in providing various loans to urban customers, faces a critical decision-making process upon receiving loan applications.
@@ -21,7 +21,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ```
 
-### Data Set
+## Data Set
 
 > The data set is a CSV file(loan.csv) with the loan data for the Lending Club.
 
@@ -50,7 +50,7 @@ The loan process involves three main steps:
 ## Glossary
 EDA - Exploratory Data Analytics
 
-### Contributor
+## Contributor
 Manisha Jena
 
 
